@@ -1,23 +1,6 @@
-Naming a project is the fun part! Since your work combines **Data Science** (the Iris dataset) with **Augmented Reality** (WebXR and AR.js), you want a name that sounds both technical and "organic."
-
-### 🏷️ Project Name Ideas
-
-1.  **IrisLens AR** (Professional & Clean)
-2.  **FloraStat 3D** (Focuses on the data/botany mix)
-3.  **BloomVision** (Creative and catchy)
-4.  **Iris Dimensions** (Refers to your X, Y, Z axis mapping)
-5.  **Project PetalView** (Friendly and accessible)
-
-**My Recommendation:** **IrisLens AR** — it’s snappy, easy to remember, and describes exactly what the tool does.
-
----
-
-### 📄 README.md
-Here is a professional `README.md` you can use for your GitHub repository or project folder. It explains the "Why" and "How" of your project.
+# DUAL Iris AR 🌸
 
 ```markdown
-# IrisLens AR 🌸
-
 An interactive Augmented Reality application built with **Django** that visualizes the famous Iris Dataset in 3D space. This project bridges the gap between data science and immersive technology by allowing users to explore botanical data through their camera.
 
 ## 🚀 Features
