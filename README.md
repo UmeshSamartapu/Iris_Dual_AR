@@ -1,6 +1,5 @@
 # DUAL Iris AR 🌸
 
-```markdown
 An interactive Augmented Reality application built with **Django** that visualizes the famous Iris Dataset in 3D space. This project bridges the gap between data science and immersive technology by allowing users to explore botanical data through their camera.
 
 ## 🚀 Features
@@ -31,7 +30,7 @@ iris_ar_project/
 │       └── Iris.glb     # 3D Iris Model
 ├── viewer/              # Django App
 └── manage.py
-```
+
 
 ## 🏃 Setup Instructions
 
